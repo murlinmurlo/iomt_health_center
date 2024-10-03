@@ -31,3 +31,4 @@ Application is used to read data from BLE devices and send it to [server](https:
 ![Login View](screenshots/login_view.jpg)
 ![Config Selection](screenshots/config_selection.jpg)
 ![Device View](screenshots/device_view.jpg)
+![Cardio View](screenshots/cardio.jpg)
