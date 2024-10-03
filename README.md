@@ -17,7 +17,7 @@ Application is used to read data from BLE devices and send it to [server](https:
 
 ### Requirements:
  * Android 14
- * BLE/BC support
+ * BLE and BC support
 
 ### Features
  * Credential saving
