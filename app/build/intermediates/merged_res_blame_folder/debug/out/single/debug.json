@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_heart.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_blt.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\blt.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_band_icon.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\band_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_ic_location_24dp.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\ic_location_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_ic_menu_home.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\ic_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\anim_push_left_in.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_circular_grey_bordersolid.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\circular_grey_bordersolid.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_check.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_weight_scale.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\weight_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_ic_menu_list.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\ic_menu_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_track_selector.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\font_proximanovaregular.otf.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\font\\proximanovaregular.otf"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_ic_menu_account.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\ic_menu_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_circularbordersoliddark.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\circularbordersoliddark.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_cake.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\cake.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_circleyellowfil.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\circleyellowfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_mail.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_android.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_battery.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\battery.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_steps.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\steps.png"
+    },
+    {
+        "merged": "com.iomt.android.app-merged_res-83:/menu_menu_toolbar.xml.flat",
+        "source": "com.iomt.android.app-main-85:/menu/menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_insp.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\insp.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_height.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\height.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_circularbordersolid.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\circularbordersolid.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_act.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\act.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_default_device.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\default_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_call.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\call.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_hexoskin.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\hexoskin.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_thumb_selector.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\thumb_selector.xml"
+    },
+    {
+        "merged": "com.iomt.android.app-merged_res-83:/drawable_battary_cardio.png.flat",
+        "source": "com.iomt.android.app-main-85:/drawable/battary_cardio.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_vest_icon.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\vest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_ic_menu_statistics.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\ic_menu_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_lungs1.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\lungs1.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_lungs.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\lungs.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable-v21_ic_menu_settings.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable-v21\\ic_menu_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_delete.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_cadence.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\cadence.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\anim_push_left_out.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_exp.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\exp.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_ic_menu_cardio.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\ic_menu_cardio.xml"
+    },
+    {
+        "merged": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-merged_res-83:\\drawable_nosig.xml.flat",
+        "source": "C:\\Users\\masha.MASHANB\\.gradle\\daemon\\8.1\\com.iomt.android.app-main-85:\\drawable\\nosig.xml"
+    }
+]
