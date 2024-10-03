@@ -1,33 +1,33 @@
-# Требования к аппаратным и программным средствам (испытательному стенду)
+# IoMT Health Center
 
-Для проверки функционирования программы использовались следующие аппаратные и программные средства:
+[![Run diKTat](https://github.com/IoMT-LVK/iomt-android/actions/workflows/diktat.yml/badge.svg)](https://github.com/IoMT-LVK/iomt-android/actions/workflows/diktat.yml)
+![Lines of code](https://img.shields.io/tokei/lines/github/IoMT-LVK/iomt-android)
+[![Hits-of-Code](https://hitsofcode.com/github/IoMT-LVK/iomt-android?branch=main)](https://hitsofcode.com/github/IoMT-LVK/iomt-android/view?branch=main)
 
-## Аппаратные средства:
-- **Смартфон** с поддержкой Bluetooth
-- **Компьютер/ноутбук**
-  - Минимальные требования:
-    - Объем основной памяти: не менее 2 Гб
-    - Процессор: с частотой не менее 1.5 ГГц
 
-## Программные средства:
-- **Операционная система:** Android OS версии 8.0 и выше
-- **Среда разработки:** Android Studio Arctic Fox 2020.3.1 и выше
+### Abstract
 
----
+This graduation thesis aims to improve the existing client-side of a service for collecting and processing medical telemetry data from Internet of Things devices.
 
-# Порядок сборки программы из исходных текстов и её установки на испытательный стенд
+The study explores the scalability issue of the client-side in the area of simultaneous interaction with multiple Internet of Medical Things sensors.
+An architectural solution is proposed that allows reading data from sensors in the background, and resource consumption is investigated depending on the number of connected devices.
 
-## Последовательность команд для сборки:
-1. Установите Android Studio.
-2. Откройте проект в Android Studio.
-3. Синхронизируйте проект с Gradle, используя кнопку "Sync Project with Gradle Files".
-4. Соберите проект, нажав "Build" -> "Make Project".
+### What's inside
+Application is used to read data from BLE devices and send it to [server](https://github.com/IoMT-LVK/iomt_backend)
 
-## Последовательность команд для установки:
-1. Подключите Android-устройство к компьютеру через USB.
-2. В Android Studio выберите подключенное устройство для развертывания.
-3. Нажмите "Run" -> "Run 'app'" для установки и запуска приложения на устройстве.
+### Requirements:
+ * Android 14
+ * BLE support
 
-## Дополнительные программные средства:
-- **JDK:** 11 и выше
-- **Android SDK:** и соответствующие инструменты сборки
+### Features
+ * Credential saving
+ * Dynamic theme based on `MaterialYou`
+ * Caching data on device
+ * Plots based on cached data
+ * `MQTT` is used for data synchronization with server
+ * Auto cleanup each 24 hours
+
+### Some screenshots
+![Login View](screenshots/login_view.jpg)
+![Config Selection](screenshots/config_selection.jpg)
+![Device View](screenshots/device_view.jpg)
