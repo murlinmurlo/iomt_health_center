@@ -1,3 +1,3 @@
-# Мини-версия приложения для экспериментов со снятием ЭКГ
+# Mini-Version of the ECG Recording Experiment Application
 
-Это мини-версия приложения, предназначенная для экспериментов со снятием ЭКГ. В отличие от основного приложения, в этой версии используется традиционный подход с использованием XML для разметки интерфейса, а не Jetpack Compose.
+This mini-version of the application is designed for experiments with ECG recording. Unlike the main application, this version uses a traditional approach with XML for the user interface layout instead of Jetpack Compose.
