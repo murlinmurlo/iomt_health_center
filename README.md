@@ -1,4 +1,4 @@
-# IoMT Health Center
+﻿# IoMT Health Center
 
 [![Run diKTat](https://github.com/IoMT-LVK/iomt-android/actions/workflows/diktat.yml/badge.svg)](https://github.com/IoMT-LVK/iomt-android/actions/workflows/diktat.yml)
 ![Lines of code](https://img.shields.io/tokei/lines/github/IoMT-LVK/iomt-android)
@@ -17,7 +17,7 @@ Application is used to read data from BLE devices and send it to [server](https:
 
 ### Requirements:
  * Android 14
- * BLE support
+ * BLE/BC support
 
 ### Features
  * Credential saving
