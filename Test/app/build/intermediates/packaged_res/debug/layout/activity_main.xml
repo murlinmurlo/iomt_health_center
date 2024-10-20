@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ecgShow"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/onClickReadDeviceInformation"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:text="Read Device Information"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.924"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.248"
+        tools:visibility="gone" />
+
+
+    <TextView
+        android:id="@+id/showDeviceInformation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Тут должен появиться текст"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/onClickReadDeviceInformation"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/onClickReadDeviceInformation"
+        app:layout_constraintTop_toBottomOf="@+id/onClickReadDeviceInformation"
+        app:layout_constraintVertical_bias="0.115"
+        tools:visibility="gone" />
+
+    <SeekBar
+        android:id="@+id/rateSlider"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="28dp"
+        android:indeterminateDrawable="@color/lightYellow"
+        android:max="2"
+        android:min="0"
+        android:stepSize="1"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/ecgShowView"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="@+id/ecgShowView"
+        app:layout_constraintTop_toBottomOf="@+id/ecgShowView" />
+
+    <Button
+        android:id="@+id/onClickStartSession"
+        android:layout_width="85dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="104dp"
+        android:backgroundTint="@color/lightYellow"
+        android:text="Start"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ecgShowView" />
+
+    <Button
+        android:id="@+id/onClickStopSession"
+        android:layout_width="85dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="104dp"
+        android:layout_marginEnd="115dp"
+        android:backgroundTint="@color/lightYellow"
+        android:text="Stop"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ecgShowView" />
+
+    <com.my.test.EcgShowView
+        android:id="@+id/ecgShowView"
+        android:layout_width="406dp"
+        android:layout_height="180dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/greetings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome back"
+        android:textColor="@color/material_dynamic_neutral70"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.139"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.297" />
+
+    <Button
+        android:id="@+id/onClickConnect"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="@color/lightYellow"
+        android:text="Connect"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/onClickPowerOff"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/lightYellow"
+        android:text="Turn Off"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/onClickConnect"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/onClickConnect"
+        app:layout_constraintTop_toBottomOf="@+id/onClickConnect" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:text="Read Comonent Status"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.08"
+        tools:layout_editor_absoluteX="16dp"
+        tools:visibility="gone" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="272dp"
+        android:layout_height="96dp"
+        android:layout_marginTop="8dp"
+        android:text="Тут должен появиться текст"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/button2"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/button2"
+        app:layout_constraintTop_toBottomOf="@+id/button2"
+        tools:visibility="gone" />
+
+    <Spinner
+        android:id="@+id/selectFrequency"
+        android:layout_width="106dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="28dp"
+        app:layout_constraintEnd_toEndOf="@+id/ecgShowView"
+        app:layout_constraintHorizontal_bias="0.071"
+        app:layout_constraintStart_toStartOf="@+id/ecgShowView"
+        app:layout_constraintTop_toBottomOf="@+id/ecgShowView" />
+
+    <Button
+        android:id="@+id/onClickShow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@color/lightYellow"
+        android:text="Show "
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/onClickStopSession"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/onClickShare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@color/lightYellow"
+        android:text="Share"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/onClickStartSession"
+        app:layout_constraintVertical_bias="0.085" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
