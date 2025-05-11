@@ -5,8 +5,8 @@ group = "com.iomt"
 
 buildscript {
     repositories {
-        mavenCentral()
         google()
+        mavenCentral()
         maven {
             url = uri("https://repo.eclipse.org/content/repositories/paho-releases/")
         }
@@ -15,11 +15,13 @@ buildscript {
         classpath("com.android.tools:r8:8.0.40")
         classpath("com.android.tools.build:gradle:7.4.2")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.10")
+
         classpath("org.jetbrains.dokka:dokka-gradle-plugin") {
             version {
                 strictly("1.8.10")
             }
         }
+
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle.kts files
     }
@@ -40,6 +42,12 @@ plugins {
     id("org.cqfn.diktat.diktat-gradle-plugin") version "1.2.5"
     id("com.google.devtools.ksp") version "1.8.21-1.0.11" apply false
     kotlin("jupyter.api") version "0.11.0-365"
+
+    id("com.google.gms.google-services") version "4.4.2" apply false
+
+
+
+
 }
 
 diktat {

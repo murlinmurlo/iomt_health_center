@@ -5,6 +5,9 @@ plugins {
     id("org.cqfn.diktat.diktat-gradle-plugin")
     id("com.google.devtools.ksp")
     id("org.jetbrains.dokka")
+
+    id("com.google.gms.google-services")
+
 }
 
 android {
@@ -166,6 +169,13 @@ dependencies {
     implementation("androidx.compose.runtime:runtime-rxjava2")
 
     implementation ("co.yml:ycharts:2.1.0")
+
+
+    implementation(platform("com.google.firebase:firebase-bom:31.2.0"))
+    implementation("com.google.firebase:firebase-analytics")
+
+
+
 }
 
 configurations.all {
@@ -180,3 +190,5 @@ diktat {
         exclude("build/**", "src/test/**", "src/androidTest/**")
     }
 }
+
+
