@@ -40,4 +40,7 @@
     <string name="mqtt_port">8883</string>
     <string name="login_text">Войти</string>
 
+    <string name="notifications_enabled">Push Notifications Enabled</string>
+    <string name="notifications_disabled">Push Notifications Disabled</string>
+
 </resources>
